@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const App = () => {
-	const buttonText = {text: 'submitt'};
+	const buttonText = {text: 'submit'};
 
 	return(
 		<div>
